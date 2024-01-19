@@ -1,0 +1,35 @@
+<script src="{{ asset('assets/js/fullpage.min.js')}}"></script>
+<script>
+	$(document).ready(function() {
+		$('#fullpage').fullpage({
+			//options here
+			anchors: ['1', '2', '3', '4', '5', '6'],
+			autoScrolling:true,
+			scrollHorizontally: true,
+			// normalScrollElements: 'footer'
+		});
+
+		//methods
+		$.fn.fullpage.setAllowScrolling(true);
+	});
+	$(document).on('click', '#moveTo1', function(){
+	  fullpage_api.moveTo('page1', 1);
+	});
+
+	$(document).on('click', '#moveTo2', function(){
+	  fullpage_api.moveTo('page2', 2);
+	});
+    function change_bg(bg, key){
+        console.log("bg", bg);
+        console.log("bgkey", key);
+        $('#origin-1').css({"background":"url('"+ bg +"')",});
+        // $(".coverdis").removeClass('col-md-8');
+        // $(".coverdis").addClass('col-md-6');
+        // $(".discov").addClass('hidden');
+        $(".box-origin").hide();
+        $(".origin-panel-" + key).css("opacity", "1");
+        $(".origin-panel-" + key).css("display", "block");
+        $("#main-origin-dropdown").removeClass("show");
+    }
+
+</script>

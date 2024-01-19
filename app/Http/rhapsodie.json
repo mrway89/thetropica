@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "talasi",
+  "private_key_id": "68ea8b8bf40d7b72caca95c361d23fcb4bc94067",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCPPqMiLXJpOnft\nyCct5jaBSaih3kpQVrqTbDLAvS14nhh54OKFqlJLfopxlvjuHOpJbtQ0FEB9iooZ\nFA/H/ITTcj4ClbwOhXEcyAZxbLTVYJmLDs7k06Dzkn+1C0TxJVxN1OLdLJoVklTo\nfMBHkz72Ctg/oACwix4RE3gpEb53+NGZYQF/i5gHVTl5/KFkK7PtsZbZh6TNM+I9\nYGjgriauAGcwuez1KuJdqfOrj7QA+ODwYFpZoUOx0bjmGWgXBT7qNtn+fr/LajRk\n/rBJboEkI38Kx2WuxPBsJRQHOqYKTP+XDLEjCQZJIgAeyR2nvUqqqVytIX/tlEcb\nqIkTFe7lAgMBAAECggEAITViyYYiu52H9zLLTntMEI4cj6ZCsTxiFdJkM8XH2GpC\nf2Lw8Q8K9CCahPn8rOs8L5kHjilRyCkJmgXKINF8k66tDJldFzq9ffArejk69Srn\nfdMJiQg9DKree4Do00UXkJ21mJQCBtU9ZQai5xUOaCkceCemcUdXSZsrZM4Ny68l\nS3g8sOeGkUlXYPPSHmgcVBSVhVbx8EiE+EuACv7Yfd2Qbgq6W2xkACm8tXpIBhIv\nYJF+uQB31UOAx+o34N1wD5W2mLVDCauwwunnHOWqNB67uoK/750a93TdPdRiKhCw\nSKYqNuJ7tx1f7tofsBwFYElMpwavWkLV1SRcXtoQsQKBgQDEK5tddmAx/Kt1Bb7Q\nwNVih18USzm3/eg78j9lFkiaRPvuKA+zNFUaXRavQ8St9Fe2JEi4tXB5d6QG50ZE\nUYiAvWO8O4b8N0oXOJOIyR+XlLmS77Xu4eF1czp1tsWVrEscsQDILZ2mxtj//Zvl\noxaMV7uaDLew724sIjJvwjAWbQKBgQC67sDCm0QovRUAhnxkYsRKGckpP1UOWC4V\nTMOLxeZYRl/VTIOzi8OV1SAUPPIHnmop2XKSFuoRWCOrUOf8Xi/vwPnd2n3p/wWl\nFAsUPu2hkz1XcK4P/Pen81VyuMtmYBlinn8trYDUOPJvtdh3U1WHr1PRTABCExBp\nCaZ28azPWQKBgDQVP9K4syGSbBNNyzOxfvYB6wSAVHq9NwNzddFo8S3EUv8QM9ro\ncg/l1zgBTh7BWOhLCePAiHQ3h50tmkJZQ1yq6+f2BgjAxTMVGlaez3x3SC3y5uLd\npfaA+Wx3ck4iyG59sC91rP2ynbqZouJ9QmdQg8aKydp4N1AQZEO30vyhAoGBAIei\n76kFQkqRECkmbCHm7GicFzNfqdbTsvRvk7/ao83Pmn/JmhJwSkVwtGsa4b8Xeg7N\noe1QxRw6qP8IoJukuAGuM19/xzc/fRgP2A4jrwc7MBo/P32IXya1UH4CikvJVQIS\n4VMCfuT+QSM/fkbu57OhSx8ll1ZaQOEGSIwrxelZAoGAQ4MAkIC2RSzIbC3vCUvu\nXyd6T4lUrDQ/cNHls2nfiqzXaFne6PM1veyh7+9pQcF3yFY+3M+YH5LQJroKwh25\n+4uqKxmWiN3gOdXV2JWNiMJ0ROMMpMip9+o9BBL/s1rSSu6BocSerHoyi3vzzlF6\ntCycDzIrld/0r8Jv1mIjN44=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-api@talasi.iam.gserviceaccount.com",
+  "client_id": "117211573298163940702",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-api%40talasi.iam.gserviceaccount.com"
+}

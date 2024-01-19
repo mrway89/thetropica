@@ -1,0 +1,41 @@
+/* change these if you want */
+.raterater-bg-layer {
+    color: #d9d9d9;
+    /*z-index: 1*/
+}
+.raterater-hover-layer {
+    color: #f4c52c;
+    /*z-index: 1;*/
+}
+.raterater-hover-layer.rated { /* after the user selects a rating */
+    color: #f4c52c;
+    /*z-index: 2;*/
+}
+.raterater-rating-layer {
+    color: #f4c52c;
+    /*z-index: 1;*/
+}
+/*.raterater-outline-layer {
+    color: #d9d9d9;
+}*/
+
+/* don't change these - you might break something.. */
+.raterater-wrapper {
+    overflow:visible;
+}
+.raterater-layer,
+.raterater-layer i {
+    display: block;
+    position: absolute;
+    overflow: visible;
+    top: 0px;
+    left: 0px;
+}
+.raterater-hover-layer {
+    display: none;
+}
+.raterater-hover-layer i,
+.raterater-rating-layer i {
+    width: 0px;
+    overflow: hidden;
+}
